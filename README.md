@@ -11,9 +11,13 @@ The Scientific Method
 Rocket fuel
 <pre>https://en.wikipedia.org/wiki/Rocket_propellant</pre>
 <pre>https://www.sciencedirect.com/topics/chemistry/rocket-fuel</pre>
+SpaceX Rocket Fuel:
+-Refined liquid methane is used as a component of rocket fuel (https://en.wikipedia.org/wiki/Methane#Fuel)
+-Liquid oxygen (LOX) is used as a component of rocket fuel (https://en.wikipedia.org/wiki/Rocket_propellant#Liquid_chemical_propellants)
+-Gaseous methane and gaseous oxygen is expected to be used in the future
 
 Use of CO2 in a chemical reaction for Rocket Fuel formation
-<pre>https://repositories.lib.utexas.edu/handle/2152/26150</pre>
+
 
 Machine Learning and Organic Chemistry
 <pre>https://pubs.acs.org/doi/10.1021/acscentsci.8b00357</pre>
