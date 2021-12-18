@@ -27,6 +27,9 @@ Machine Learning and Organic Chemistry
 <pre>https://pr.ibs.re.kr/bitstream/8788114/3636/1/2017_Sci.Rep._Predicting%20the%20outcomes%20of%20organic_Bartosz.pdf</pre>
 <pre>https://chemintelligence.com/ai-for-chemistry</pre>
 
+ML
+<pre>https://openai.com/api/</pre>
+
 3. Form an explanatory hypothesis
 
 4. Test the hypothesis by performing an experiment and collecting data in a reproducible manner
