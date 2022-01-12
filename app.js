@@ -3,13 +3,15 @@ const http = require('http');
 const hostname = '127.0.0.1';
 const port = 3000;
 
+//const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+const OPENAI_API_KEY = "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";
+
 const OpenAI = require('openai-api');
+
+const openai = new OpenAI(OPENAI_API_KEY);
 
 // Load your key from an environment variable or secret management service
 // (do not include your key directly in your code)
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-
-const openai = new OpenAI(OPENAI_API_KEY);
 
 (async () => {
     const gptResponse = await openai.complete({
@@ -42,7 +44,7 @@ const openai = new OpenAI(OPENAI_API_KEY);
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World' + JSON.stringify(openai));
+  res.end('Hello World' + JSON.stringify());
 });
 
 server.listen(port, hostname, () => {
